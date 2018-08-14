@@ -1,4 +1,4 @@
-# Algorithms-Data-Structures
+# Algorithms-And-Data-Structures
 
 Within this repository, I included tools I needed in order to create and write efficient programs.
 
