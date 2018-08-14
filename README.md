@@ -1,6 +1,6 @@
 # Algorithms-Data-Structures
 
-Within this repository I included tools and I need in order to create and write efficient programs.
+Within this repository, I included tools I needed in order to create and write efficient programs.
 
 The programming language is Java and I implement these ideas in my different projects.
 
